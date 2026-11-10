@@ -40,6 +40,11 @@ I built this because I wanted to solve a problem: people often don't have the ti
 2. **Electronics:** Solder components onto your custom EasyEDA PCB and connect the ESP32, VL53L0X sensor, motor driver, and display modules.
 3. **Assembly:** Drop components into their respective chassis pockets for a secure, clean fit.
 
-## Design & Previews
-* **CAD Model & Board Render:**
-![CAD Screenshot](Screenshot%202026-11-09%20162143.png)
+## Design & Store Price Proofs
+![Onshape Design](onShape-Design.png)
+![PCB Board](PCB-Board.png)
+![Store Pricing](Price%20Image.png)
+
+## Links
+* **Onshape CAD Model:** [View Pocket Droid in Onshape](https://cad.onshape.com/documents/19b0ce3daa0e393820cf39aa/w/1d09b65d66d9f51d8f39abce/e/9fbd39f73b1e463306bd41a0)*
+ 
