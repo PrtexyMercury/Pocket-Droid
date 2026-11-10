@@ -1,15 +1,15 @@
-# Pocket Droid (R2D2 Companion) 🤖
+# Pocket Droid
 
 A pocket-sized, 3D-printed R2D2-style companion droid designed for autonomous tracking, expressive interactions, and portable utility. Built as part of the **Hack Club Fallen** hardware program.
 
-## 🚀 Features
+## Features
 * **Custom Enclosure:** Designed in Onshape with a robust 4mm wall thickness, optimized for 3D printing in PLA/PETG.
 * **Custom PCB:** A fully routed, compact printed circuit board designed in EasyEDA (`PCB_4th-Attempt`).
 * **Expressive Face:** Dual round LCD display modules acting as animated robot eyes.
 * **Precise Navigation:** Powered by twin TT DC gear motors with a rear balancing caster and a VL53L0X Time-of-Flight (ToF) laser distance sensor.
 * **Audio Feedback:** Miniature passive buzzer for classic droid chirps and alerts.
 
-## 🛠️ Bill of Materials (BOM)
+##  Bill of Materials (BOM)
 
 | Item | Description | Qty | Est. Cost (ZAR) | Supplier |
 | :--- | :--- | :---: | :---: | :--- |
@@ -25,10 +25,10 @@ A pocket-sized, 3D-printed R2D2-style companion droid designed for autonomous tr
 | **3D Printing Filament** | PLA/PETG Shell Material | 1 | R50.00 | Local Stock |
 | **Total Estimated Budget** | | | **~R960.00 ZAR** | |
 
-## 📁 Repository Structure
-* **/CAD/**: Onshape 3D models and exported STL files for the droid shell.
-* **/PCB/**: EasyEDA source files and production-ready Gerber `.zip` package (`Gerber_PCB_4th-Attempt.zip`).
-* **/Firmware/**: ESP32 control scripts and sensor integration code.
+## Repository Structure
+* **CAD**: Onshape 3D models and exported STL files for the droid shell.
+* **PCB**: EasyEDA source files and production-ready Gerber `.zip` package (`Gerber_PCB_4th-Attempt.zip`).
+* **Firmware**: ESP32 control scripts and sensor integration code.
 * **`bom.csv`**: Complete parts list and pricing inventory.
 
 ## 🔧 Fabrication & Assembly
