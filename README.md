@@ -47,4 +47,4 @@ I built this because I wanted to solve a problem: people often don't have the ti
 
 ## Links
 * **Onshape CAD Model:** [View Pocket Droid in Onshape](https://cad.onshape.com/documents/19b0ce3daa0e393820cf39aa/w/1d09b65d66d9f51d8f39abce/e/9fbd39f73b1e463306bd41a0)*
- 
+* **/PCB/**: EasyEDA source files and production-ready Gerber `.zip` package (`Gerber_PCB_4th-Attempt.zip`). 
