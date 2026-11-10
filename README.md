@@ -31,7 +31,11 @@ A pocket-sized, 3D-printed R2D2-style companion droid designed for autonomous tr
 * **Firmware**: ESP32 control scripts and sensor integration code.
 * **`bom.csv`**: Complete parts list and pricing inventory.
 
-## 🔧 Fabrication & Assembly
+## Fabrication & Assembly
 1. **Chassis:** 3D print the Onshape shell using PLA/PETG at 0.2mm layer height and 20–30% infill.
 2. **Electronics:** Solder components onto your custom EasyEDA PCB and connect the ESP32, VL53L0X sensor, motor driver, and display modules.
 3. **Assembly:** Drop components into their respective chassis pockets for a secure, clean fit.
+
+## Design & Previews
+* **CAD Model:**
+![CAD Screenshot](Screenshot%2026-11-10%205544.png)
