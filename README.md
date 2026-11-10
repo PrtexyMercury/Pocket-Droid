@@ -1,12 +1,16 @@
 # Pocket Droid
 
-A pocket-sized, 3D-printed R2D2-style companion droid designed for autonomous tracking, expressive interactions, and portable utility. Built as part of the **Hack Club Fallen** hardware program.
+A pocket-sized, 3D-printed R2D2-style companion droid designed for auto tracking, expressive Facial movements(To an extent), and portable utility. Built as part of the **Hack Club Fallen** hardware program(GO team Lulu).
+
+# Why I Made It 
+
+I built this because I wanted to solve a problem: people often don't have the time for high-maintenance pets, or they feel alone with how busy life is. This pocket droid gives you that companion presence without any of the heavy upkeep.
 
 ## Features
-* **Custom Enclosure:** Designed in Onshape with a robust 4mm wall thickness, optimized for 3D printing in PLA/PETG.
+* **Custom Enclosure:** Designed in Onshape with a 4mm wall thickness, optimized for 3D printing in PLA/PETG.
 * **Custom PCB:** A fully routed, compact printed circuit board designed in EasyEDA (`PCB_4th-Attempt`).
-* **Expressive Face:** Dual round LCD display modules acting as animated robot eyes.
-* **Precise Navigation:** Powered by twin TT DC gear motors with a rear balancing caster and a VL53L0X Time-of-Flight (ToF) laser distance sensor.
+* **Expressive Face:** Dual round LCD display modules acting as animated robot eyes.(very hard to find btw)
+* **Precise Navigation:** Powered by twin TT DC gear motors with a rear balancing caster and a VL53L0X Time-of-Flight (ToF) laser distance sensor.(just learnt what ToF)
 * **Audio Feedback:** Miniature passive buzzer for classic droid chirps and alerts.
 
 ##  Bill of Materials (BOM)
@@ -35,3 +39,7 @@ A pocket-sized, 3D-printed R2D2-style companion droid designed for autonomous tr
 1. **Chassis:** 3D print the Onshape shell using PLA/PETG at 0.2mm layer height and 20–30% infill.
 2. **Electronics:** Solder components onto your custom EasyEDA PCB and connect the ESP32, VL53L0X sensor, motor driver, and display modules.
 3. **Assembly:** Drop components into their respective chassis pockets for a secure, clean fit.
+
+## Design & Previews
+* **CAD Model & Board Render:**
+![CAD Screenshot](Screenshot%202026-11-09%20162143.png)
